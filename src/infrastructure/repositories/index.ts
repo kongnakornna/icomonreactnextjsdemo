@@ -1,0 +1,9 @@
+export { InFileCustomersRepository } from './customers.repository.in-file';
+export { InFileWebOrdersRepository } from './web-orders.repository.in-file';
+export { InFileDashboardRepository } from './dashboard.repository.in-file';
+export { InFileDevicesRepository } from './devices.repository.in-file';
+export { InFileLocationsRepository } from './locations.repository.in-file';
+export { InFileHardwareRepository } from './hardware.repository.in-file';
+export { InFileSensorsRepository } from './sensors.repository.in-file';
+export { InFileSchedulesRepository } from './schedules.repository.in-file';
+export { InFileTokensRepository } from './tokens.repository.in-file';

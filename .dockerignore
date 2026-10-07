@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.env.local
+*.local
+docs/
+scripts/
+tests/
+.vscode/
+*.md
+!public/
+angular-skills/
+dist/

@@ -1,0 +1,9 @@
+export type { ICustomersRepository } from './customers.repository.interface';
+export type { IWebOrdersRepository } from './web-orders.repository.interface';
+export type { IDashboardRepository } from './dashboard.repository.interface';
+export type { IDevicesRepository } from './devices.repository.interface';
+export type { ILocationsRepository } from './locations.repository.interface';
+export type { IHardwareRepository } from './hardware.repository.interface';
+export type { ISensorsRepository } from './sensors.repository.interface';
+export type { ISchedulesRepository } from './schedules.repository.interface';
+export type { ITokensRepository } from './tokens.repository.interface';

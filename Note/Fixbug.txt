@@ -1,0 +1,43 @@
+แก้ไข C:\github\icmon-react-nextjs\app\(auth)\sign-in
+
+แก้ไข
+นำมาจาก  C:\github\icmonangular\src\app\features\auth ทั้งหมด
+ลบของเก่าออก
+
+
+แก้ไข features\auth
+http://localhost:1003/sign-in
+1.UI แสดงไม่ถูกต้อง  logo แสดงรูปไม่ตุกต้อง
+2.Theme Settings
+3.dropdown language  เปลียนภาษา แล้ว ภาษาไม่เปลียน
+4.login ไม่ได้
+Request URL
+    http://localhost:1003/api/auth/sign-in
+    Request Method
+    POST
+    Status Code
+    401 Unauthorized
+    Remote Address
+    [::1]:1003
+    Referrer Policy
+    strict-origin-when-cross-origin
+
+
+
+Error 500 => http://localhost:1003/favicon.ico 
+
+1. ทำการ
+อ่าน  C:\github\icmonangular\src
+C:\github\icmonangular\src\app\layouts
+C:\github\icmonangular\src\app\features\auth\presentation\layouts\auth-layout
+C:\github\icmonangular\src\assets
+C:\github\icmonangular\src\app
+C:\github\icmonangular\src\environments
+C:\github\icmonangular\netlify
+
+ful code update C:\github\icmon-react-nextjs
+2.run test 
+3.fix bug
+
+
+

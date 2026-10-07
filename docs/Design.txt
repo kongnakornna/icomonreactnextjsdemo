@@ -1,0 +1,25 @@
+อ่าน  
+1.C:\github\react-nextjs-clean-architecture\docs\plan\architecture-migration-plan.md
+2.C:\github\react-nextjs-clean-architecture\docs\architecture-guide.md
+3.C:\github\react-nextjs-clean-architecture\docs\module-map.md
+4.C:\github\react-nextjs-clean-architecture\docs\theme-guide.md
+5.Design
+อ่าน  และ คัดลอกมาใช้เลย
+    C:\github\icmonangular\src\assets
+    C:\github\icmonangular\src\environments
+    C:\github\icmonangular\src\app
+    C:\github\icmonangular\src
+    C:\github\icmonangular\images
+    Proxy  api call แบบเดียวกับ  icmonangular
+  สร้าง เอกสาร โครงสร้าง ใหม่ ใน react-nextjs-clean-architecture
+   คัดลอก icmonangular   มาทำใหม่ในนี้ โดยหากเป็นไปได้อยากได้โครงสร้างคล้ายๆ   C:\github\icmonangular
+
+   เขียน Readme.md
+        1.อธิบาย Architecture
+        2.วาดโครสร้าง folder
+        3.วาด Flow การทำงาน
+        4.การติดตั้ง
+        5.การ  test  
+        6.การ build  
+        7.การ deploy docker
+

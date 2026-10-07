@@ -1,0 +1,4 @@
+1.อ่าน  C:\github\icmonangular นำโครงสร้าง และ รูปแบบมนใช้กับ  C:\github\react-nextjs-clean-architecture โดย สร้าง เอกสาร โครงสร้าง ออกมาดุก่อน
+2.สร้าง เอกสาร โครงสร้าง ใหม่ ใน react-nextjs-clean-architecture
+3.คัดลอก modules และ tehem มาทำในนี้ โดยหากเป็นไปได้อยากได้โครงสร้างคล้ายๆ   C:\github\icmonangular
+
